@@ -40,3 +40,17 @@ EXPORTS
     ?CopyFromInternal@Tensor@tensorflow@@AEAAXAEBV12@AEBVTensorShape@2@@Z
     ??1NodeDef@tensorflow@@UEAA@XZ
     ??0NodeDef@tensorflow@@QEAA@AEBV01@@Z
+
+    ??0ResourceHandle@tensorflow@@QEAA@XZ
+    ??1ResourceHandle@tensorflow@@QEAA@XZ
+    ?Clear@AllocatorStats@tensorflow@@QEAAXXZ
+    ??1Allocator@tensorflow@@UEAA@XZ
+    ?RunVariantCtor@Allocator@tensorflow@@EEAAXPEAVVariant@2@_K@Z
+    ?RunVariantDtor@Allocator@tensorflow@@EEAAXPEAVVariant@2@_K@Z
+    ??6tensorflow@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV12@AEBVStatus@0@@Z
+    ??0Tensor@tensorflow@@QEAA@PEAVAllocator@1@W4DataType@1@AEBVTensorShape@1@@Z
+    ??$CreateMaybeMessage@VGPUOptions@tensorflow@@$$V@Arena@protobuf@google@@CAPEAVGPUOptions@tensorflow@@PEAV012@@Z
+    ??0ConfigProto@tensorflow@@QEAA@XZ
+    ?CopyFrom@ConfigProto@tensorflow@@QEAAXAEBV12@@Z
+    ?InternalSwap@ConfigProto@tensorflow@@AEAAXPEAV12@@Z
+    ??_7ConfigProto@tensorflow@@6B@
